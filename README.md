@@ -1,6 +1,6 @@
 # Portfolio Template
 
-## First-time setup
+## The collection of the work of DennisG8153
 
 ##### Getting your own copy of the template
 
@@ -16,11 +16,7 @@
 In the future, you will be editing these files using an IDE. For now, you will be editing these files directly on github.com
 
 
-* Click `script.js`, then click the pencil icon to edit the file.
-* Change `ownerName` to your name: it can be your first name, first and last name, or first name / last initial. For example, _John_ or _John Doe_ or _John D._ This will be what displays in your navigation bar and tab title of the browser.
-* Change `userName` to your Github username. It must match _exactly_. For example, _johnd1234_
-* Click the green **commit** button at the bottom.
-
+* BRO wtge8ygh oº–i8ueSQf ihgew 7hwytgo849e 3qrtuy¢œ™np y6™•
 ##### Uploading your logo
 
 _NOTE: It is recommended you rename your logo file to_`logo.png`
